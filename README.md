@@ -31,4 +31,4 @@ The dataset consists of brain MRI images categorized into:
 📥 Download Dataset:
 
 👉 https:https://drive.google.com/drive/folders/1CxJtc7cF8AkTm7DbcdrcRktDoB6l3Dg5?usp=sharing
-After downloading, place the dataset inside the project folder like this:
+
